@@ -1,6 +1,6 @@
 {
-  "name": "OmniPost Studio",
-  "description": "Cross-platform AI social media content generator simultaneously crafting tailored copy and aspect-ratio optimized visual assets for LinkedIn, Twitter/X, and Instagram.",
+  "name": "SI-KAWAN POSYANDU",
+  "description": "Sistem Informasi Kolaborasi, Akses, dan Integrasi Posyandu Se-Kecamatan Kepanjen, Kabupaten Malang (UPTD Puskesmas Kepanjen).",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": []
 }
